@@ -6,3 +6,4 @@ CREATE TABLE IF NOT EISTS users (
     email VARCHAR(255) NOT NULL UNIQUE,
     name VARCHAR(255),
 );
+
