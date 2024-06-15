@@ -1,0 +1,2 @@
+// this script count the length of the collection
+db.school.countDocuments({});
