@@ -1,0 +1,2 @@
+// this command show all the dbs in the server
+show dbs;
