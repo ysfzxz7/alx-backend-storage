@@ -1,0 +1,6 @@
+// script the new attr and upadte the other,
+db.update(
+  {name: "Holberton school"}, 
+  {"$set": {address: "972 Mission street"}},
+  {multi: true}
+);
