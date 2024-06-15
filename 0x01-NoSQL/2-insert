@@ -1,0 +1,2 @@
+// this script create a collection ifn't exist and add a document to it
+db.school.insert({name: "Holberton school"});
